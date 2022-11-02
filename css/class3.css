@@ -1,0 +1,22 @@
+/* *{
+    background-color: rgb(230, 56, 56);
+} */
+h3{
+   font-size: 33px;
+   padding-left: 50px; 
+}
+.heading{
+    background-color: antiquewhite;
+}
+img{
+    height: 300px;
+    width: 500px;
+   position: absolute;
+   left: 200px;
+   padding: 100px;
+   margin:auto;
+   background-color: antiquewhite;
+}
+section{
+    background-color: antiquewhite;
+}
